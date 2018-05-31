@@ -1,0 +1,22 @@
+{
+  "name": "CustomWebView",
+  "version": "0.1.0",
+  "summary": "A short description of CustomWebView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tejaswiu/CustomWebView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tejaswiu": "utejaswi@teksystems.com"
+  },
+  "source": {
+    "git": "https://github.com/tejaswiu/CustomWebView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomWebView/Classes/**/*"
+}

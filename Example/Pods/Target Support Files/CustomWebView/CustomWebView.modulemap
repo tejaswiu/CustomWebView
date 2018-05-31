@@ -1,0 +1,6 @@
+framework module CustomWebView {
+  umbrella header "CustomWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}

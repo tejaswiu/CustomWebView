@@ -22,7 +22,7 @@ pod 'CustomWebView'
 
 ## Author
 
-tejaswiu, utejaswi@teksystems.com
+tejaswiu, uppala.tejaswi@gmail.com
 
 ## License
 

@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		02CF6ED6DBCF2F5C2758CB47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		02CF6ED6DBCF2F5C2758CB47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		02DA61D2E4940F9D88DF2BFB /* Pods_CustomWebView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CustomWebView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		089591F7EEA7C79CCE4567F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		089591F7EEA7C79CCE4567F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		24852C04436F7D8FA6CDB953 /* Pods_CustomWebView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CustomWebView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* CustomWebView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomWebView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		A8A664B06260DE5A909CB65A /* Pods-CustomWebView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomWebView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomWebView_Example/Pods-CustomWebView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B6515443B8F3FF14DB845D0D /* Pods-CustomWebView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomWebView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CustomWebView_Example/Pods-CustomWebView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C3D8CCD2938B061C809CE408 /* Pods-CustomWebView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomWebView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomWebView_Tests/Pods-CustomWebView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D95860E8E29AFF2DC76B7710 /* CustomWebView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CustomWebView.podspec; path = ../CustomWebView.podspec; sourceTree = "<group>"; };
+		D95860E8E29AFF2DC76B7710 /* CustomWebView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CustomWebView.podspec; path = ../CustomWebView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

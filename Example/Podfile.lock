@@ -1,0 +1,16 @@
+PODS:
+  - CustomWebView (0.1.0)
+
+DEPENDENCIES:
+  - CustomWebView (from `../`)
+
+EXTERNAL SOURCES:
+  CustomWebView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomWebView: 866ef70944021542e0cce9051fc4958ef397250b
+
+PODFILE CHECKSUM: 9fdd00d208634cc9589bbc4b1864f676929c48e7
+
+COCOAPODS: 1.5.2
